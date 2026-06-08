@@ -1,0 +1,6 @@
+{
+  "name": "متاهة التوازن ثلاثية الأبعاد",
+  "description": "لعبة توازن وتركيز ثلاثية الأبعاد تعتمد بالكامل على مستشعر الجيرسكوب وتوجيه الهاتف لتفادي العقبات والهروب من المتاهة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
